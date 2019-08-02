@@ -4,3 +4,5 @@ This demonstration of A-P axial growth is based on the [Plinko probability game]
   <img width="300" height="188" src="https://github.com/devoworm/Triangular-State-Machines-TSM/blob/master/A-P%20segmentation%20Plinko%20tree/plinko-probability-600.png">
 </p>
 
+Image courtesy [PHET Simulations, University of Colorado, Boulder](https://en.wikipedia.org/wiki/PhET_Interactive_Simulations).
+
