@@ -4,13 +4,13 @@ This repository is a place for development of triangular state machines (TSMs) i
 
 ### Contents:
 
-1) slides_x_.png: slides showing the order ogf activation and other features of a TSM model (part of a reticulating binary tree).  
+1) _slidesx_.png: slides showing the order of activation and other features of a TSM model (part of a reticulating binary tree).  
 
-2) acting-in-cis.md: contains rules for _cis_-action in a TSM model.  
+2) _acting-in-cis_.md: contains rules for _cis_-action in a TSM model.  
 
-3) .png files demonstrating heterochronic trajectories and overlapping trees.  
+3) _x_.png files demonstrating heterochronic trajectories and overlapping trees.  
 
-4) transitivity.md: contains information and examples about transitive action in a TSM model.
+4) _transitivity.md: contains information and examples about transitive action in a TSM model.
 
 
  
